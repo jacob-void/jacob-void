@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## These are my personal configs use at ur own risk LMAO
 <!--
 **jacob-void/jacob-void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
